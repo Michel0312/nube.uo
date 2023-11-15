@@ -12,27 +12,27 @@
     "env": {
       "BOT_TOKEN": {
         "description": "Make a bot from https://t.me/BotFather and enter the token here.",
-        "value": ""
+        "value": "5895984505:AAF4h96HJ9a2zbe42ALg28tWNcAENu4zF30"
       },
       "API_ID": {
         "description": "Get this value from https://my.telegram.org/apps",
-        "value": ""
+        "value": "11405596"
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org/apps",
-        "value": ""
+        "value": "39ad6135ac9b75a47f2d1804c092c8f8"
       },
       "ADMIN_ID": {
         "description": "Your(owner's) telegram id",
-        "value": ""
+        "value": "878626783"
       },
       "USERS_CHANNEL": {
         "description": "Channel where 'users.json' will be stored",
-        "value": ""
+        "value": "https://t.me/Up_Redy"
       },
       "USERS_POST_ID": {
         "description": "Post where 'users.json' will be stored",
-        "value": ""
+        "value": "-1001807928266"
       }
     },
     "addons": [
